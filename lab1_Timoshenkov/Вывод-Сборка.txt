@@ -1,0 +1,5 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: lab1_Timoshenkov, Конфигурация: Debug x64 ------
+1>lab1_Timoshenkov.cpp
+1>lab1_Timoshenkov.vcxproj -> C:\Users\Пользователь\source\repos\lab1_Timoshenkov\x64\Debug\lab1_Timoshenkov.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
